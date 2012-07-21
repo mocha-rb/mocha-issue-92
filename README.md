@@ -1,6 +1,6 @@
 ## Mocha issue 92
 
-This is a Rails project which attempts to reproduce the issue seen in [Mocha issue 92](https://github.com/freerange/mocha/issues/92)..
+This is a Rails project which attempts to reproduce the issue seen in [Mocha issue 92](https://github.com/freerange/mocha/issues/92).
 
 ### What I did
 
